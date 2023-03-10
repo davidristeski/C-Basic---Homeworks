@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\bin\Debug\net6.0\Homework #1.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\bin\Debug\net6.0\Homework #1.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\bin\Debug\net6.0\Homework #1.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\bin\Debug\net6.0\Homework #1.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\bin\Debug\net6.0\Homework #1.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\refint\Homework #1.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\01 - Homework #1\Homework #1\Homework #1\obj\Debug\net6.0\ref\Homework #1.dll
