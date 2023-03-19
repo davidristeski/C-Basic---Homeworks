@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\bin\Debug\net6.0\Task 4 - Age Calculator.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\bin\Debug\net6.0\Task 4 - Age Calculator.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\bin\Debug\net6.0\Task 4 - Age Calculator.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\bin\Debug\net6.0\Task 4 - Age Calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\bin\Debug\net6.0\Task 4 - Age Calculator.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\refint\Task 4 - Age Calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\Task 4 - Age Calculator.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 4 - Age Calculator\obj\Debug\net6.0\ref\Task 4 - Age Calculator.dll

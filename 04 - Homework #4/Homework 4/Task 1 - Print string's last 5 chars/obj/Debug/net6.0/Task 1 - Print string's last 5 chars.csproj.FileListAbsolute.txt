@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\bin\Debug\net6.0\Task 1 - Print string's last 5 chars.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\bin\Debug\net6.0\Task 1 - Print string's last 5 chars.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\bin\Debug\net6.0\Task 1 - Print string's last 5 chars.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\bin\Debug\net6.0\Task 1 - Print string's last 5 chars.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\bin\Debug\net6.0\Task 1 - Print string's last 5 chars.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\refint\Task 1 - Print string's last 5 chars.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\Task 1 - Print string's last 5 chars.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 1 - Print string's last 5 chars\obj\Debug\net6.0\ref\Task 1 - Print string's last 5 chars.dll

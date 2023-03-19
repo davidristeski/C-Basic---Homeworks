@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\bin\Debug\net6.0\Simple calculator.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\bin\Debug\net6.0\Simple calculator.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\bin\Debug\net6.0\Simple calculator.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\bin\Debug\net6.0\Simple calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\bin\Debug\net6.0\Simple calculator.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\refint\Simple calculator.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\Simple calculator.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Simple calculator\Simple calculator\obj\Debug\net6.0\ref\Simple calculator.dll

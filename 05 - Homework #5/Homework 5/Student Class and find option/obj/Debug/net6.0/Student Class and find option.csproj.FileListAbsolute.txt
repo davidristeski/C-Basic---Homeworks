@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\bin\Debug\net6.0\Student Class and find option.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\bin\Debug\net6.0\Student Class and find option.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\bin\Debug\net6.0\Student Class and find option.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\bin\Debug\net6.0\Student Class and find option.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\bin\Debug\net6.0\Student Class and find option.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\refint\Student Class and find option.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\Student Class and find option.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 5\Student Class and find option\obj\Debug\net6.0\ref\Student Class and find option.dll

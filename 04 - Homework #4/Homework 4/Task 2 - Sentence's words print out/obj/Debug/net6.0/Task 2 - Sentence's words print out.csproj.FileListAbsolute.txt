@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\bin\Debug\net6.0\Task 2 - Sentence's words print out.exe
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\bin\Debug\net6.0\Task 2 - Sentence's words print out.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\bin\Debug\net6.0\Task 2 - Sentence's words print out.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\bin\Debug\net6.0\Task 2 - Sentence's words print out.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\bin\Debug\net6.0\Task 2 - Sentence's words print out.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\refint\Task 2 - Sentence's words print out.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\Task 2 - Sentence's words print out.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\02 - Homework #3\Homework 4\Task 2 - Sentence's words print out\obj\Debug\net6.0\ref\Task 2 - Sentence's words print out.dll
