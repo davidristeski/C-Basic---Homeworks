@@ -1,0 +1,12 @@
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\5. C# Basic\02 - Homeworks C#\06 - Homework #6\Exercises\Domain\obj\Debug\net6.0\ref\Domain.dll
